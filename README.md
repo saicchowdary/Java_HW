@@ -2,6 +2,41 @@
 
 
 
+## Week 4 Day 5 - Mini Selenium Flow
+
+### Task 1 - Mini Selenium Flow
+- Open Chrome browser
+- Navigate to SauceDemo website
+- Enter username and password
+- Click the Login button
+- Verify successful login
+- Close the browser
+
+### Task 2 - Code Cleanup
+Created reusable methods:
+- openBrowser()
+- openWebsite()
+- login()
+- verifyLogin()
+- closeBrowser()
+
+### Selenium Setup
+1. Install Java JDK
+2. Install IntelliJ IDEA
+3. Add Selenium dependencies
+4. Install Google Chrome
+5. Run the Selenium Java class
+
+### Execution
+Run:
+- Day5_Task1_MiniFlow.java
+- Day5_Task2_Refactor.java
+
+Expected Result:
+Login Test Passed
+
+
+
 
 
 # Java_HW
