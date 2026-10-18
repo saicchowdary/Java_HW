@@ -128,3 +128,20 @@ TEST PASSED: Logout Successful
 ### Conclusion
 Successfully automated login and logout functionality
 using Selenium WebDriver and Java.
+
+
+
+
+
+## Week 6 Day 5 - Mini Project 2
+
+Created a login automation framework using:
+- Selenium WebDriver
+- Java
+- TestNG
+- Page Object Model (POM)
+
+Includes valid and invalid login tests.
+
+Documentation:
+[src/Week6/Week6/Day5_Task2_Readme.md](src/Week6/Week6/Day5_Task2_Readme.md)
