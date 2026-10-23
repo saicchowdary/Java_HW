@@ -145,3 +145,29 @@ Includes valid and invalid login tests.
 
 Documentation:
 [src/Week6/Week6/Day5_Task2_Readme.md](src/Week6/Week6/Day5_Task2_Readme.md)
+
+
+
+## Week 7 Day 4 - API Automation
+
+### Task 1: API Test Cases
+- Positive Test: Verify status code 200 for a valid user.
+- Negative Test: Verify status code 404 for an invalid user.
+
+### Task 2: Combined Assertions
+- Validate API status code 200.
+- Validate user ID = 1.
+- Validate username = Bret.
+
+### Task 3: API Documentation
+- Endpoint: https://jsonplaceholder.typicode.com/users/1
+- Method: GET
+- Request Body: Not required
+- Expected Status Code: 200
+- Expected Username: Bret
+
+### Tools Used
+- Java
+- REST Assured
+- TestNG
+- IntelliJ IDEA
